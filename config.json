@@ -1,0 +1,7 @@
+{
+    "openai_key": "",
+    "modules": [
+        "queue_list",
+        "product_list"
+    ]
+}
